@@ -57,3 +57,9 @@ This project effectively demonstrated the process of backing up and restoring a 
 Through this demonstration, it became clear that regular backups are essential for maintaining a secure database system. The ability to restore a database from a backup ensures that data can be recovered quickly and efficiently, minimizing downtime and preventing data loss.
 
 #OUTPUT:
+![Screenshot 2025-01-08 221156](https://github.com/user-attachments/assets/4f79ca56-37c2-42ca-b8a5-c238b3df1823)
+![Screenshot 2025-01-08 221410](https://github.com/user-attachments/assets/7bdc867d-be89-4380-ab7c-11aaf91fe5a5)
+![Screenshot 2025-01-08 221533](https://github.com/user-attachments/assets/2e2403c4-06d8-4f43-870d-39b1c77333d3)
+![Screenshot 2025-01-08 221752](https://github.com/user-attachments/assets/b7fbe82a-e01a-4301-b592-6b55d619c142)
+![Screenshot 2025-01-08 221819](https://github.com/user-attachments/assets/140ab8fe-ade2-4fcb-8af5-262d73705480)
+![Screenshot 2025-01-08 221937](https://github.com/user-attachments/assets/db6e93d5-c21c-43e2-95c3-1f3cedf2580c)
